@@ -6,4 +6,4 @@ As I practice Swift, I am going through the episodes of [NS Screencast](http://n
 * [Episode 194 Modeling API Endpoints](http://nsscreencast.com/episodes/194-modeling-api-endpoints) 
 
 ##Thank You
-Special thanks to [Ben Scheirman](https://twitter.com/subdigital) for providing this great resource.
+Special thanks to [Ben Scheirman](https://twitter.com/subdigital) for providing this great resource. 👍🏼
